@@ -1,0 +1,15 @@
+V:\bridgeLabz\RFP\CodeWrkDir\C#ArrayString\C#ArrayString\bin\Debug\net6.0\C#ArrayString.exe
+V:\bridgeLabz\RFP\CodeWrkDir\C#ArrayString\C#ArrayString\bin\Debug\net6.0\C#ArrayString.deps.json
+V:\bridgeLabz\RFP\CodeWrkDir\C#ArrayString\C#ArrayString\bin\Debug\net6.0\C#ArrayString.runtimeconfig.json
+V:\bridgeLabz\RFP\CodeWrkDir\C#ArrayString\C#ArrayString\bin\Debug\net6.0\C#ArrayString.dll
+V:\bridgeLabz\RFP\CodeWrkDir\C#ArrayString\C#ArrayString\bin\Debug\net6.0\C#ArrayString.pdb
+V:\bridgeLabz\RFP\CodeWrkDir\C#ArrayString\C#ArrayString\obj\Debug\net6.0\C#ArrayString.csproj.AssemblyReference.cache
+V:\bridgeLabz\RFP\CodeWrkDir\C#ArrayString\C#ArrayString\obj\Debug\net6.0\C#ArrayString.GeneratedMSBuildEditorConfig.editorconfig
+V:\bridgeLabz\RFP\CodeWrkDir\C#ArrayString\C#ArrayString\obj\Debug\net6.0\C#ArrayString.AssemblyInfoInputs.cache
+V:\bridgeLabz\RFP\CodeWrkDir\C#ArrayString\C#ArrayString\obj\Debug\net6.0\C#ArrayString.AssemblyInfo.cs
+V:\bridgeLabz\RFP\CodeWrkDir\C#ArrayString\C#ArrayString\obj\Debug\net6.0\C#ArrayString.csproj.CoreCompileInputs.cache
+V:\bridgeLabz\RFP\CodeWrkDir\C#ArrayString\C#ArrayString\obj\Debug\net6.0\C#ArrayString.dll
+V:\bridgeLabz\RFP\CodeWrkDir\C#ArrayString\C#ArrayString\obj\Debug\net6.0\refint\C#ArrayString.dll
+V:\bridgeLabz\RFP\CodeWrkDir\C#ArrayString\C#ArrayString\obj\Debug\net6.0\C#ArrayString.pdb
+V:\bridgeLabz\RFP\CodeWrkDir\C#ArrayString\C#ArrayString\obj\Debug\net6.0\C#ArrayString.genruntimeconfig.cache
+V:\bridgeLabz\RFP\CodeWrkDir\C#ArrayString\C#ArrayString\obj\Debug\net6.0\ref\C#ArrayString.dll
